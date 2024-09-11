@@ -19,7 +19,7 @@ The structure of the project is the following:
 + [homework](./homework): 
   This directory contains all my homework submissions, each of which is a folder properly named with homework number, containing the homework submission.
 
-+ [quiz](./quiz): 
++ [quiz](./Quiz): 
   This directory contains all my quiz submissions, each of which is a folder properly named with quiz number, containing the quiz submission.
 
 + [exam](./exam): 
