@@ -9,4 +9,4 @@
 **Position Title:** Student
 **Course Webpage:** https://www.cdslab.org/IDS2024F/  
 **Photo:**  
-![](./)
+![photo of jennifer](./IMG_7281.pdf)
