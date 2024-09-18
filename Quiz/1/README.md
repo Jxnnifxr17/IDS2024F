@@ -1,4 +1,4 @@
-## QUIZ 1  
+1. ## QUIZ 1  
 2. .md stands for "Markdown" and is used because..  
 3. No.  
 4. Yes.
@@ -25,8 +25,8 @@
 23. Data scientist, Markingeting Date Analyst, Bioinfromation, Financial Quantaitative Analyst.
 24. Data-driven discovery via machine learning, deep learning    
 25. Experiment, Theory, Computation+Data.
-26. .
-27. .
+26.   
+27.   
 28. Someone whose job is to analzye and interpret data.  
 29. Relative; points to a file based on the current directory while Absolute; Gives the full path from the root. Relative is better in Github project because it is portable.   
 30. git --help -a
