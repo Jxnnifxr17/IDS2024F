@@ -4,4 +4,8 @@
 4. The CPU.
 5. Hard Drive Disks.
 6. bit.
-7. 
+7. A) Assembly language.  
+   B) No.  
+8) A) Fortran.
+   B) Since 1956.  
+
