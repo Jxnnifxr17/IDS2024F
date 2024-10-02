@@ -1,5 +1,5 @@
 1) Cache Memory.  
-2) Speed?
+2) To ensure balance in speed, size, cost, and work.  
 3) HDD.
 4) Registers, L1 Cache, L2 Cache, L3 Cache, DRAM, Disk.
 5) Bit.
