@@ -1,10 +1,12 @@
-1. 
-2. Electronic Numerical Integrator And Computer.
-3. Because computer operate using binary code (0s and 1s).
-4. The CPU.
-5. Hard Drive Disks.
-6. bit.
-7. A) Assembly language.  
+1. A) PDF.  
+   B) FORTRAN, LISP, ALGOL 58, BASIC, C, FORTRAN 90, C++, C#,  Java, Python, JavaScript, sh  
+   C) 1950s: FORTRAN, LISP, ALGOL 58 - 1960s: BASIC - 1970s: C, sh - 1980s: C++ - 1990s: FORTRAN 90, Java, Python, JavaScript - 2000s: C#.  
+3. Electronic Numerical Integrator And Computer.
+4. Because computer operate using binary code (0s and 1s).
+5. The CPU.
+6. Hard Drive Disks.
+7. bit.
+8. A) Assembly language.  
    B) Yes.  
 8) A) Fortran.  
    B) Since 1950s.  
