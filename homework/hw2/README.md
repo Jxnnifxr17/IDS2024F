@@ -1,4 +1,4 @@
-1. A) PDF.  
+1. A) ?  
    B) FORTRAN, LISP, ALGOL 58, BASIC, C, FORTRAN 90, C++, C#,  Java, Python, JavaScript, sh  
    C) 1950s: FORTRAN, LISP, ALGOL 58 - 1960s: BASIC - 1970s: C, sh - 1980s: C++ - 1990s: FORTRAN 90, Java, Python, JavaScript - 2000s: C#.  
 3. Electronic Numerical Integrator And Computer.
