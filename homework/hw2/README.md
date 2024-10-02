@@ -9,9 +9,9 @@
 8) A) Fortran.  
    B) Since 1956.  
 9) A)  
-   B) 3rd Generation Language.  
-10).  
-11).  
+   B) 3rd Generation Language.
+10)  .
+11)  .  
 12) C.  
 13) .  
 14) CPU Registers/Cache.
