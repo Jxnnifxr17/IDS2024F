@@ -1,4 +1,4 @@
-1. Experiment, Theory, Computation+Data.  
+1. Experiment, Theory, Computation and Data.    
 2. 
 3. Deductive and plausible reasoning.
 4. Observational data is what we collect through seeing or measuring things, while reality is everything that exists, whether we observe it or not.   
