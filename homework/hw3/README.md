@@ -6,7 +6,7 @@
 6. A statement that can be either true or false, but not both.  
 7. No, it cant be both true or false. If someone was to say "It is raining" and also said "It is not raining"  at the same time, it would cause a contradiction.  
 8. No, A⇒B could mean if A is true, then B is true, but that does not mean that if B is true, A must be true. Example: "It is raining" (A) "The ground is wet" (B). If it is raining, then the ground is wet is valid, but if the ground is wet, then it is raining isnt valid.  
-9. ![Question 9](./IMG_0539.jpg)  
+9. ![Question 9](./IMG_0539.pdf)  
 10. .
 11. .
 12. If it is raining, then the ground is wet.  
