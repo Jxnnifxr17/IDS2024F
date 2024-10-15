@@ -11,6 +11,6 @@
 11. .
 12. A) Bit.  
     B) A bit is like a switch that can be either off (0) or on (1). It’s the simplest way to represent information because it has only two options.  
-    C1) 1 box: 2 states  
-    C2) 2 boxes: 4 states  
-    C3) 3 boxes: 8 states  
+    C1) 1 box: 2 states (on or off).  
+    C2) 2 boxes: 4 states (on-on, on-off, off-on, off-off).  
+    C3) 3 boxes: 8 states (on-on-on, on-on-off, on-off-on, on-off-off, off-on-on, off-on-off, off-off-on, off-off-off).  
