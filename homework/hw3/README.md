@@ -1,5 +1,5 @@
-1. Experiment and Theory???
-2. .
+1. Experiment, Theory, Computation+Data.  
+2. 
 3. Deductive and plausible reasoning.
 4. Observational data is what we collect through seeing or measuring things, while reality is everything that exists, whether we observe it or not.   
 5. Prediction Senario: Quantity of Interest, Validation Senario: Validation Data, Calibration Scenario: Calibration Data.  
