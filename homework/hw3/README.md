@@ -8,7 +8,7 @@
 8. No, A⇒B could mean if A is true, then B is true, but that does not mean that if B is true, A must be true. Example: "It is raining" (A) "The ground is wet" (B). If it is raining, then the ground is wet is valid, but if the ground is wet, then it is raining isnt valid.  
 9. ![Question 9](./IMG_0539.pdf)
 10. ![Question 10](./IMG_0540.pdf)
-11. .
+11. ![Question 11](./IMG_0541.pdf)
 12. If it is raining, then the ground is wet.  
 13. If a person is crawling out of a broken window of a jewelry store at night, wearing a mask, and carrying a bag full of expensive jewelry, then they are most likely a burglar and therefore dishonest.  
 14. A) Bit.  
