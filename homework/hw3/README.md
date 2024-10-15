@@ -1,11 +1,11 @@
-1. Experiment and Theory
+1. Experiment and Theory???
 2. .
 3. Deductive and plausible reasoning.
 4. Observational data is what we collect through seeing or measuring things, while reality is everything that exists, whether we observe it or not.   
-5. 
-6.
+5. Prediction Senario: Quantity of Interest, Validation Senario: Validation Data, Calibration Scenario: Calibration Data.  
+6. A statement that can be either true or false, but not both.  
 7. No, it cant be both true or false. If someone was to say "It is raining" and also said "It is not raining"  at the same time, it would cause a contradiction.  
-8. .
+8. No, A⇒B could mean if A is true, then B is true, but that does not mean that if B is true, A must be true. Example: "It is raining" (A) "The ground is wet" (B). If it is raining, then the ground is wet is valid, but if the ground is wet, then it is raining isnt valid.  
 9. .
 10. .
 11. .
