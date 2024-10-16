@@ -1,5 +1,7 @@
 1. Experiment, Theory, Computation and Data.    
-2. 
+2. 1) Physics: help scientists understand tiny particles and how they interact, which is important for new technologies.  
+   2) Biomedical: use data to find new medicines faster by predicting how effective and safe they might be.  
+   3) Neuroscience: study brain scans to see how different brain areas work together, helping to understand brain health and disorders.  
 3. Deductive and plausible reasoning.
 4. Observational data is what we collect through seeing or measuring things, while reality is everything that exists, whether we observe it or not.   
 5. Prediction Senario: Quantity of Interest, Validation Senario: Validation Data, Calibration Scenario: Calibration Data.  
