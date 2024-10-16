@@ -6,7 +6,7 @@
 6.
 7. No they are not the same. Example: Logical Implication: If it is raining (A), then the ground will be wet (B). This is a logical relationship; if A is true, B must follow logically. Physical Causation: If you drop a glass (cause), it will break when it hits the floor (effect). Here, the breaking of the glass is caused by the action of dropping it.
 8. George Boole.  
-9. ![Question 9](
+9. ![Question 9]
 10. .
 11. Both proporsitions are equal, they will have the same truth.   
 12. When you add two propositions that complement each other, the result is always true. Example: If P is true (it is raining), then ¬P is false (it is not raining). If P is false (it is not raining), then  ¬P is true (it is raining).  
