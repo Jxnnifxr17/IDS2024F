@@ -9,8 +9,8 @@
 9. ![Question 9](./IMG_9615.pdf) 
 10. ![Question 10](./IMG_9615.pdf) 
 11. Both proporsitions are equal, they will have the same truth.   
-12. When you add two propositions that complement each other, the result is always true. Example: If P is true (it is raining), then ¬P is false (it is not raining). If P is false (it is not raining), then  ¬P is true (it is raining).  
-13. When you multiply two propositions that complement each other, the result is always false. If P is true (it is raining), then ¬P is false (it is not raining). If P is false (it is not raining), then ¬P is true (it is raining).  
+12. When you add two propositions that complement each other, the result is always true. Example: If P is true (it is raining), then -P is false (it is not raining). If P is false (it is not raining), then  -P is true (it is raining).  
+13. When you multiply two propositions that complement each other, the result is always false. If P is true (it is raining), then -P is false (it is not raining). If P is false (it is not raining), then -P is true (it is raining).  
 14. ![Question 14](./IMG_9615.pdf) 
 15. a bit.
 16. No.
