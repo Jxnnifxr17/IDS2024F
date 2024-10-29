@@ -10,7 +10,7 @@
 10. ![Question 10](./HW410.jpg)
 11. ![Question 11](./HW411.png)
     ![Question 11](./HW411.2.png)
-12. ![Question 12](./)   
+12. ![Question 12](./HW412.jpeg)   
 13. (I) Degrees of plausibility are represented by real numbers.  
     (II) Qualitative correspondence with common sense.  
     (III) Consistency.  
