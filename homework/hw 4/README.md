@@ -7,6 +7,5 @@
 7. ![Question 7](./HW47.jpeg) 
 8. ![Question 8](./) 
 9. ![Question 9](./HW49.jpg) 
-10. ![Question 10](./HW410.jpg)
-11. ![Question 11](./HW411.png)
-    ![Question 11](./HW411.2.png)
+10. ![Question 10](./HWf10.jpg)
+11. ![Question 11](./HW411.2.png)
