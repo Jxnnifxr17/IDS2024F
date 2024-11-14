@@ -1,4 +1,4 @@
-1.  
+1. ![Question 1](./HWf1.jpg)  
 2.  
 3. "All data visualizations map data values into quantifiable features of the resulting graphic." To name a few would be like color, shape, size, position, line style, and texture.
 4. "Those that can represent continuous data and those that cannot."
