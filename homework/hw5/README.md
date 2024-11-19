@@ -18,6 +18,7 @@
     B) Diverging: Ideal for visualizing data with a meaningful midpoint, often zero, where values can be both positive and negative. This type of scale helps to emphasize deviation from a neutral value, with one color representing positive values and another representing negative values.  
     C) Qualitative: Suitable for categorical data that has no inherent ordering. Each category is assigned a distinct color, making it easy to differentiate between different groups or classes.  
     D) Monochromatic: Best for continuous data where you want to emphasize a smooth transition across a wide range of values, typically from low to high. This scale uses a variety of colors to represent different values, providing a perceptually uniform transition that is also colorblind-friendly.
+13.  
 14. The top one.  
 15. 
 16. Classical, Empirical, Subjective, Axiomatic.  *
