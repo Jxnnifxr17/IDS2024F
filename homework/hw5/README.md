@@ -1,4 +1,4 @@
-1. ![Question 1](./IMG_0574.jpg)  
+1. ![Question 1](./Hw51.jpeg)  
 2. Normalization, Non-Negativity, Additivity. 
 3. "All data visualizations map data values into quantifiable features of the resulting graphic." To name a few would be like color, shape, size, position, line style, and texture.
 4. Continuous and Non-Continuous. "Those that can represent continuous data and those that cannot."
