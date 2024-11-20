@@ -34,7 +34,7 @@
 26. Periodic Data Set.
 27. Accent color scales, Okabe Ito Accent.
 28. The names of the movies should be on the vertical axis rather than the bottom while the "weekend gross (million USD) should be on the hortizontal rather than the vertical.  
-29. A) Increase.
+29. A) Increase.  
     B) 2 degree celsius.  
 
 
