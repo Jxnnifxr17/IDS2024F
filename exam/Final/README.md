@@ -2,7 +2,7 @@
 2. "All data visualizations map data values into quantifiable features of the resulting
 graphic." To name a few would be like color, shape, size, position, line style, and texture.  
 3. The top one because it more vabiant.
-4. A.
+4. A.  
    A) Sequential: Best for representing ordered, continuous data where values increase or decrease in a linear fashion, such as temperature, elevation, or income.  
 B) Diverging: Ideal for visualizing data with a meaningful midpoint, often zero, where values can be both positive and negative. This type of scale helps to emphasize deviation from a neutral value, with one color representing positive values and another representing negative values.  
 C) Qualitative: Suitable for categorical data that has no inherent ordering. Each category is assigned a distinct color, making it easy to differentiate between different groups or classes.  
