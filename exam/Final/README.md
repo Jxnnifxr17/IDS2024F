@@ -28,11 +28,18 @@ graphic." To name a few would be like color, shape, size, position, line style, 
 20. B.
 21. Fortran.
 22. ![Question 22](./Final22.jpeg)
-23. ![Question 23](./final23.HEIC)
+23. ![Question 23](./final23.jpeg)  
 24.(A) Deductive reasoning: If A is true, then B is true.  
    (B) Plausible reasoning: If A is true, then B is more likely to be true.
 25. It means they have the same truth value.
-26. 
+26. ![Question 23](./final26.jpeg)
+27. .
+28. S=1638. 99+3 = 102. (102 x 33)/2 = 1638. add the last and first term to give the total of a pair in between the summations then mulitple by the amount of numbers, then divide by 2 to in count for the pairs.
+29. .
+30. C = A+B, C is true when A or B is true, the negation of C is Cˉ and (A+B)ˉ = Aˉ*Bˉ. So it can be seen as Cˉ = (A+B)ˉ= Aˉ*Bˉ.  
+31. .
+32. (A) Quantum, Prababilistic, Measurment, Chaotic, Cosmological.  
+    (B) Quantum.  
 
 
 
