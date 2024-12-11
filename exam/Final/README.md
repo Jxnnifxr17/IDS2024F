@@ -39,9 +39,9 @@ D) Monochromatic: Best for continuous data where you want to emphasize a smooth 
 26. ![Question 23](./final26.jpeg)
 27. ![Question 27](./final27.jpeg)
 28. S=1638. 99+3 = 102. (102 x 33)/2 = 1638. add the last and first term to give the total of a pair in between the summations then mulitple by the amount of numbers, then divide by 2 to in count for the pairs.
-29. .
+29. (A↑B)↑(A↑B) can be simplify to (AB) We know that (AB)=(A↑B)= Aˉ+ Bˉ.   
 30. C = A+B, C is true when A or B is true, the negation of C is Cˉ and (A+B)ˉ = Aˉ*Bˉ. So it can be seen as Cˉ = (A+B)ˉ= Aˉ*Bˉ.  
-31. .
+31. ![Question 31](./final31.jpeg)
 32. (A) Quantum, Prababilistic, Measurment, Chaotic, Cosmological.  
     (B) Quantum.  
 
