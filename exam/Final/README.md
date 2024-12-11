@@ -29,5 +29,10 @@ graphic." To name a few would be like color, shape, size, position, line style, 
 21. Fortran.
 22. ![Question 22](./Final22.jpeg)
 23. ![Question 23](./final23.HEIC)
-24. 
+24.(A) Deductive reasoning: If A is true, then B is true.  
+   (B) Plausible reasoning: If A is true, then B is more likely to be true.
+25. It means they have the same truth value.
+26. 
+
+
 
