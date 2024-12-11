@@ -18,4 +18,14 @@ graphic." To name a few would be like color, shape, size, position, line style, 
 10. .
 11. 1 -> 1, 01 -> 1, 10 -> 2  
 12. No, numbers in the real world are infinite, like pi which can go on forever, computers are limited and can mainly handle a fixed amount of digits.
-13. 
+13. ![Question 13](./HW49.jpg)
+14. Git is the software for version control, github is the service that uses Git.
+15. Bayesian school of probabilty.
+16. Bayesian school of probabilty.
+17. Frequentist school of probablity.
+18. The visualization's x-axis starts at a number before 0. The axis represents age and you can't have negative age.
+19. Because computer operate using binary code (0s and 1s).
+20. B.
+21. Fortran.
+22. ![Question 22](./HW49.jpg)
+
