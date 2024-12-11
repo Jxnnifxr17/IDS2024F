@@ -27,5 +27,5 @@ graphic." To name a few would be like color, shape, size, position, line style, 
 19. Because computer operate using binary code (0s and 1s).
 20. B.
 21. Fortran.
-22. ![Question 22](./HW49.jpg)
+22. ![Question 22](./Final22.jpeg)
 
